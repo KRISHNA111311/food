@@ -1,0 +1,16 @@
+{
+  "name": "Vizag Local Guide",
+  "version": "1.0.0",
+  "description": "A street-smart assistant for Visakhapatnam built for Week 5 Challenge",
+  "context_files": [
+    "product.md"
+  ],
+  "stack": {
+    "language": "python",
+    "framework": "streamlit"
+  },
+  "kiro_settings": {
+    "mode": "agentic",
+    "grounding": true
+  }
+}
